@@ -1,0 +1,23 @@
+{
+  "name": "guidedlab318.1.1",
+  "description": "Guided Lab 318: Intro to node. A sample project demonstrating the functionality of Node and npm.",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wu-ailsa/NodeJS-Installation-and-Basics.git"
+  },
+  "keywords": [],
+  "author": "Ailsa Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wu-ailsa/NodeJS-Installation-and-Basics.git/issues"
+  },
+  "homepage": "https://github.com/wu-ailsa/NodeJS-Installation-and-Basics.git",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
